@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\dz9\zd64\bin\Debug\net7.0\zd64.exe
+C:\Users\User\Desktop\dz9\zd64\bin\Debug\net7.0\zd64.deps.json
+C:\Users\User\Desktop\dz9\zd64\bin\Debug\net7.0\zd64.runtimeconfig.json
+C:\Users\User\Desktop\dz9\zd64\bin\Debug\net7.0\zd64.dll
+C:\Users\User\Desktop\dz9\zd64\bin\Debug\net7.0\zd64.pdb
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.AssemblyInfo.cs
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.dll
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\refint\zd64.dll
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.pdb
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\zd64.genruntimeconfig.cache
+C:\Users\User\Desktop\dz9\zd64\obj\Debug\net7.0\ref\zd64.dll
